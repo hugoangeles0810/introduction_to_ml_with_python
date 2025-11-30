@@ -1,0 +1,188 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Jupyter Notebook outputs (optional - uncomment if you don't want to track outputs)
+# *.ipynb
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# poetry
+poetry.lock
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Data files (uncomment if you don't want to track datasets)
+# *.csv
+# *.json
+# *.xlsx
+# *.xls
+# *.parquet
+# *.h5
+# *.hdf5
+# data/
+# datasets/
+
+# Model files (often large, uncomment if needed)
+# *.pkl
+# *.pickle
+# *.joblib
+# *.h5
+# *.hdf5
+# *.pb
+# *.onnx
+# models/
+# saved_models/
+# checkpoints/
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Output directories
+outputs/
+results/
+figures/
+plots/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+# Uncomment the image extensions above if you don't want to track visualization outputs
+
+# Cache directories
+.cache/
+*.cache
+
+# MLflow
+mlruns/
+
+# Weights & Biases
+wandb/
+
+# TensorBoard
+runs/
+*.tfevents.*
+
+# Conda
+.conda/
+
+# Spyder
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
